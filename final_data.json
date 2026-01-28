@@ -1,0 +1,49 @@
+{
+    "articles": [
+        {
+            "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+            "link": "https://alecmuffett.com/article/143548"
+        },
+        {
+            "title": "alecmuffett.com",
+            "link": "from?site=alecmuffett.com"
+        },
+        {
+            "title": "Trinity large: An open 400B sparse MoE model",
+            "link": "https://www.arcee.ai/blog/trinity-large"
+        },
+        {
+            "title": "arcee.ai",
+            "link": "from?site=arcee.ai"
+        },
+        {
+            "title": "Airfoil (2024)",
+            "link": "https://ciechanow.ski/airfoil/"
+        },
+        {
+            "title": "ciechanow.ski",
+            "link": "from?site=ciechanow.ski"
+        },
+        {
+            "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
+            "link": "https://github.com/ratatui/mousefood"
+        },
+        {
+            "title": "github.com/ratatui",
+            "link": "from?site=github.com/ratatui"
+        },
+        {
+            "title": "Did a celebrated researcher obscure a baby's poisoning?",
+            "link": "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning"
+        },
+        {
+            "title": "newyorker.com",
+            "link": "from?site=newyorker.com"
+        }
+    ],
+    "weather": {
+        "city": "Tirana",
+        "temperature_celsius": 10.49,
+        "weather_description": "light rain"
+    }
+}
