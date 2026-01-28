@@ -17,6 +17,14 @@
             "link": "from?site=arcee.ai"
         },
         {
+            "title": "Did a celebrated researcher obscure a baby's poisoning?",
+            "link": "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning"
+        },
+        {
+            "title": "newyorker.com",
+            "link": "from?site=newyorker.com"
+        },
+        {
             "title": "Airfoil (2024)",
             "link": "https://ciechanow.ski/airfoil/"
         },
@@ -31,14 +39,6 @@
         {
             "title": "github.com/ratatui",
             "link": "from?site=github.com/ratatui"
-        },
-        {
-            "title": "Did a celebrated researcher obscure a baby's poisoning?",
-            "link": "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning"
-        },
-        {
-            "title": "newyorker.com",
-            "link": "from?site=newyorker.com"
         }
     ],
     "weather": {
