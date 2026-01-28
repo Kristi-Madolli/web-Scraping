@@ -17,6 +17,14 @@
             "link": "from?site=arcee.ai"
         },
         {
+            "title": "The UK paid £4.1M for a bookmarks site",
+            "link": "https://mahadk.com/posts/ai-skills-hub"
+        },
+        {
+            "title": "mahadk.com",
+            "link": "from?site=mahadk.com"
+        },
+        {
             "title": "Did a celebrated researcher obscure a baby's poisoning?",
             "link": "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning"
         },
@@ -31,19 +39,11 @@
         {
             "title": "ciechanow.ski",
             "link": "from?site=ciechanow.ski"
-        },
-        {
-            "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
-            "link": "https://github.com/ratatui/mousefood"
-        },
-        {
-            "title": "github.com/ratatui",
-            "link": "from?site=github.com/ratatui"
         }
     ],
     "weather": {
         "city": "Tirana",
         "temperature_celsius": 10.49,
-        "weather_description": "light rain"
+        "weather_description": "clear sky"
     }
 }
