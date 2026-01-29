@@ -3,7 +3,7 @@
 
 ## Pershkrimi
 Ky projekt projekt realizon web scraping nga nje faqe publike dhe integron nje API per te marre te dhena shtese.
-Te dhenat ruhen ne formate CSV dhe JSON.
+Te dhenat nxiren nga https://openweathermap.org dhe ruhen ne formate CSV dhe JSON.
 
 ## Teknologjite e perdorura
 - Python
