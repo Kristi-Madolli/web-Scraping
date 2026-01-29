@@ -9,14 +9,6 @@
             "link": "from?site=alecmuffett.com"
         },
         {
-            "title": "Trinity large: An open 400B sparse MoE model",
-            "link": "https://www.arcee.ai/blog/trinity-large"
-        },
-        {
-            "title": "arcee.ai",
-            "link": "from?site=arcee.ai"
-        },
-        {
             "title": "The UK paid £4.1M for a bookmarks site",
             "link": "https://mahadk.com/posts/ai-skills-hub"
         },
@@ -25,25 +17,33 @@
             "link": "from?site=mahadk.com"
         },
         {
-            "title": "Did a celebrated researcher obscure a baby's poisoning?",
-            "link": "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning"
+            "title": "I reverse-engineered Netflix's 4K restrictions",
+            "link": "https://github.com/Pickle-Pixel/netflix-force-4k"
         },
         {
-            "title": "newyorker.com",
-            "link": "from?site=newyorker.com"
+            "title": "github.com/pickle-pixel",
+            "link": "from?site=github.com/pickle-pixel"
         },
         {
-            "title": "Airfoil (2024)",
-            "link": "https://ciechanow.ski/airfoil/"
+            "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
+            "link": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in"
         },
         {
-            "title": "ciechanow.ski",
-            "link": "from?site=ciechanow.ski"
+            "title": "mcsweeneys.net",
+            "link": "from?site=mcsweeneys.net"
+        },
+        {
+            "title": "Trinity large: An open 400B sparse MoE model",
+            "link": "https://www.arcee.ai/blog/trinity-large"
+        },
+        {
+            "title": "arcee.ai",
+            "link": "from?site=arcee.ai"
         }
     ],
     "weather": {
         "city": "Tirana",
-        "temperature_celsius": 10.49,
+        "temperature_celsius": 9.49,
         "weather_description": "clear sky"
     }
 }
