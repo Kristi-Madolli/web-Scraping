@@ -16,20 +16,20 @@
         "link": "from?site=mahadk.com"
     },
     {
-        "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
-        "link": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in"
-    },
-    {
-        "title": "mcsweeneys.net",
-        "link": "from?site=mcsweeneys.net"
-    },
-    {
         "title": "I reverse-engineered Netflix's 4K restrictions",
         "link": "https://github.com/Pickle-Pixel/netflix-force-4k"
     },
     {
         "title": "github.com/pickle-pixel",
         "link": "from?site=github.com/pickle-pixel"
+    },
+    {
+        "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
+        "link": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in"
+    },
+    {
+        "title": "mcsweeneys.net",
+        "link": "from?site=mcsweeneys.net"
     },
     {
         "title": "Trinity large: An open 400B sparse MoE model",
